@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Lontre
+permalink: /
 ---
 <div id="home">
   <h1>Blog Posts</h1>
