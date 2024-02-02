@@ -15,9 +15,9 @@ permalink: /
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="/lontra.github.io{{  post.path  }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <h3>So che la settimana dal 12 al 18, sarai impegnatissima ma se riuscissi a tenerti quel mercoledì libero sarebbe molto gentile da parte tua tenerti la sera libera</h3>
+  <h3>So che la settimana dal 12 al 18, sarai impegnatissima, ma se riuscissi a tenerti quel mercoledì libero sarebbe molto gentile da parte tua non ho bisogno di tutto il giorno, mi basta solo la sera libera</h3>
   <h4>è un normale mercoledì non ti preoccupare :)</h4>  
-  <form action="">
+  <form action="https://www.youtube.com/watch?v=P8GdS8bdgK8&ab_channel=AnimalPedia">
   <button type="submit">
     Ci provo
   </button>
