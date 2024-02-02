@@ -12,7 +12,7 @@ permalink: /
   <img src="https://c8.alamy.com/compit/cxjhjk/american-lontra-di-fiume-in-piedi-lutra-canadensis-cxjhjk.jpg">   
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{  post.path | prepend:site.baseurl}}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="/lontra.github.io{{  post.path  }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
   <h3>So che la settimana dal 12 al 18, sarai impegnatissima ma se riuscissi a tenerti quel mercoledì libero sarebbe molto gentile da parte tua tenerti la sera libera</h3>
